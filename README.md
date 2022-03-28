@@ -13,7 +13,7 @@
 
 Charts app lets you see charts and add types.  
 
-> **You can take a look at the backend repo [here](https://github.com/gilgg/charts-frontend)**
+> **You can take a look at the frontend repo [here](https://github.com/gilgg/charts-frontend)**
 
 > **Go to [Website](https://gil-charts.netlify.app/)**
 
